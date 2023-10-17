@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>KDRAMA</title>
+</head>
+<body class ="s3">
+ <nav>
+  <span><img src="https://cdn-icons-png.flaticon.com/512/974/974542.png" width="60" height="60" alt="Play button free icon" title="Play button free icon" id="imglogo"></span>
+   <div class="logo"><br>&nbsp;&nbsp;WATCHNOW </div>
+   
+   <div class="container">
+    <div class="video">
+       <iframe width="400" height="230"  src="https://www.youtube.com/embed/RQj_wxq-EVA" title="(Bong Crush) Ahn, the representative of the training method (!) Park Bo-young," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="content">
+      <h2></h2>
+    </div>
+   </div>
+   <span class="menubtn" onclick="openNav()">&#9776;</span>
+  
+   <div class="navLinks">
+      <ul class="navigation">
+            <li><a href="#header">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#actor">Actor</a></li>
+            <li><a href="#review">Review</a></li>
+            <li><a href="#footer">Footer</a></li>
+            <div class="close">
+              <i class="bx bx-x"></i>
+            </div>
+       <button type="button">Login</button>
+     </ul>
+   </div>
+ </nav>
+   <div class="row">
+     <div class="column1">
+       <h1> </h1>
+       <p></p>
+     </div>
+   </div>
+</body>
+</html>

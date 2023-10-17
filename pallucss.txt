@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(https://m.media-amazon.com/images/M/MV5BZTljNjk0OTQtMTA2Zi00MzAwLWE4NTgtNjlhNmE3ODlmMDU0XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg);
+  background-image: url(https://github.com/chundrupallavi/OCTANET_OCTOBER/blob/e35b4901eeebe7e0d6798a29059414de56ed4459/pallubg.jpg);
   background-size:cover;
   background-attachment: fixed;
   color:white;

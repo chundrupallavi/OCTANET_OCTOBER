@@ -9,7 +9,7 @@
 </head>
 <body class ="s3">
  <nav>
-  <span><img src="https://cdn-icons-png.flaticon.com/512/974/974542.png" width="60" height="60" alt="Play button free icon" title="Play button free icon" id="imglogo"></span>
+  <span><img src="https://github.com/chundrupallavi/OCTANET_OCTOBER/blob/9ff5e7cdba0e963445e73dc07f4bbc9f3ce45803/palluicon.png" width="60" height="60" alt="Play button free icon" title="Play button free icon" id="imglogo"></span>
    <div class="logo"><br>&nbsp;&nbsp;WATCHNOW </div>
    
    <div class="container">
